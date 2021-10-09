@@ -5,6 +5,11 @@
 ### 19BCE0383
 ### Vellore Institute Technology
 
+### For running the code:   
+Install go lang   
+Install mongodb     
+Install postman   
+
 It will run on http://localhost12345/
 
 The backend Instagram API for Appointy Internship
@@ -42,7 +47,3 @@ Caption
 Image URL    
 Posted Timestamp   
 
-### Steps to run the code:   
-Install go lang   
-Install mongodb     
-Install postman   
