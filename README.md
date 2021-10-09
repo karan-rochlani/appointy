@@ -48,4 +48,4 @@ Caption
 Image URL    
 Posted Timestamp   
 
-![](/tests/create_a_user.png)
+![](/Tests/create_a_user.png)
