@@ -24,15 +24,15 @@ Should be a GET request
 URL should be ‘/posts/users/<Id here>'      
 
 
-Users have the following attributes:
-Id
-Name
-Email
-Password
+### Users have the following attributes:   
+Id   
+Name   
+Email   
+Password    
 
-Posts have the following Attributes:
-Id
-Caption
-Image URL
-Posted Timestamp
+### Posts have the following Attributes:    
+Id     
+Caption    
+Image URL    
+Posted Timestamp   
 
