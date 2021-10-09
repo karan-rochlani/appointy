@@ -11,6 +11,7 @@ Install mongodb
 Install postman   
 
 It will run on http://localhost12345/
+Run the code using go run .
 
 The backend Instagram API for Appointy Internship
 The project includes the following tasks:
@@ -46,4 +47,3 @@ Id
 Caption    
 Image URL    
 Posted Timestamp   
-
