@@ -1,6 +1,12 @@
 # appointy
 ## Instagram api 
 
+### Karan Rochlani
+### 19BCE0383
+### Vellore Institute Technology
+
+It will run on http://localhost12345/
+
 The backend Instagram API for Appointy Internship
 The project includes the following tasks:
 ### 1) Create an User   
@@ -38,5 +44,5 @@ Posted Timestamp
 
 ### Steps to run the code:   
 Install go lang   
-Install mongodb
-Install postman
+Install mongodb     
+Install postman   
