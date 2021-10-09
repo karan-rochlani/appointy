@@ -10,7 +10,7 @@ Install go lang
 Install mongodb     
 Install postman   
 
-It will run on http://localhost12345/
+It will run on http://localhost12345/   
 Run the code using go run .
 
 The backend Instagram API for Appointy Internship
