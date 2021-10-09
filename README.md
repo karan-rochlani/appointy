@@ -36,3 +36,7 @@ Caption
 Image URL    
 Posted Timestamp   
 
+### Steps to run the code:   
+Install go lang   
+Install mongodb
+Install postman
