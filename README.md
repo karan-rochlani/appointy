@@ -49,3 +49,11 @@ Image URL
 Posted Timestamp   
 
 ![](/Tests/Create_a_user.png)
+![](/Tests/Create_a_post.png)
+![](/Tests/Get_all_posts.png)
+![](/Tests/Get_all_user.png)
+![](/Tests/Get_post_using_id.png)
+![](/Tests/Get_user_using_id.png)
+![](/Tests/Get_all_posts_of_user.png)
+![](/Tests/Password_encrypted.png)
+
