@@ -3,6 +3,7 @@
 The backend Instagram API for Appointy Internship
 
 The project includes the following tasks:  
+
 1) Create an User
 Should be a POST request
 Use JSON request body
